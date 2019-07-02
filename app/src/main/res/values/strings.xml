@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <string name="app_name">讯飞语音示例</string>
+    <string name="app_name">智能助手</string>
     <string name="title_activity_main">智能助手</string>
     <!-- 请替换成在语音云官网申请的appid -->
     <string name="app_id">5d0e5419</string>
